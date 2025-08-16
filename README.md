@@ -6,7 +6,6 @@ This site is built to showcase my projects, background, and skills as a software
 
 🔗 **Live Site:** [https://simatesh.github.io](https://simatesh.github.io/simeon/)
 
----
 
 ## About
 
