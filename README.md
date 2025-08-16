@@ -4,7 +4,7 @@
 Welcome to my personal portfolio website!  
 This site is built to showcase my projects, background, and skills as a software developer.
 
-🔗 **Live Site:** [https://simatesh.github.io](https://simatesh.github.io)
+🔗 **Live Site:** [https://simatesh.github.io](https://simatesh.github.io/simeon/)
 
 ---
 
